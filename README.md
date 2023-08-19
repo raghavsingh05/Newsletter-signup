@@ -1,2 +1,2 @@
 # Newsletter-signup
-This news letter Web App sends latest news using API
+This newsletter Web App sends the latest news using API Using Mailchimp 
